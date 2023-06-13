@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/IstokWeb-Bold.ttf",
+      "sha1": "07a04b93937b9df9d7bfbfb0d15593fd7e3a139a"
+    },
+    {
+      "path": "src/assets/fonts/IstokWeb-BoldItalic.ttf",
+      "sha1": "1153f9c8c30fa2c21b29bf42d005347ed12eb27a"
+    },
+    {
+      "path": "src/assets/fonts/IstokWeb-Italic.ttf",
+      "sha1": "cd48ab828d0ac260480c39bc7e48bb4a14fb88f5"
+    },
+    {
+      "path": "src/assets/fonts/IstokWeb-Regular.ttf",
+      "sha1": "ca3c5fc5f6f7349d375f2c4faeb2a02dc63671ed"
+    }
+  ]
+}

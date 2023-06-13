@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "852364143244",
+    "project_id": "regraconect",
+    "storage_bucket": "regraconect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852364143244:android:b0cde7c749789cf4faa9a9",
+        "android_client_info": {
+          "package_name": "com.regraconect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852364143244-3edbpsh936jvpmgphjsq9vvepoh90lpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7VjzKVhfFSHS8_YsgrYXeanW0hyt3qlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852364143244-3edbpsh936jvpmgphjsq9vvepoh90lpj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "852364143244-ci1rl9s8tutv8j27em6tikoiu9c296ea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.regraconect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
